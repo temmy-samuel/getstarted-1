@@ -2,7 +2,7 @@
 This document contain the things you need to do to get started in Tuning Synesthesia. This Document contains the guide for the new intern that just joined. If you have question, please ask the seniors for help.
 
 ## Local Server
-Please contact Chie for the server to gain access to the server content. You will get a username and password. Then you'll be able to access the tmp_people folder that contains the document of each individual that work on TS.
+Please contact Chie for the server to gain access to the server content. You will get a username and password. Then you'll be able to access the tmp_people folder that contains the document of each individual that work on TS. Local Server can be access trough the wifi named "diskstation" or "dongmu" in the office.
 
 ## Udemy
 Udemy is an online learning video tutorial library. Udemy provide tutorial for the intenship training program. You can access udemy by clicking [here](https://udemy.com). To get the access account, please contact Chie. You can find the corresponding tutorial to your task in the MyCourse tab. If you have question about the tutorial, you can ask directly to the teacher in the tutorial through the discussion tab provided at the right side of the tutorial.
@@ -42,3 +42,5 @@ Download [here](https://www.sourcetreeapp.com/).
 
 * Rhino
 * Grasshopper
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
